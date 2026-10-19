@@ -1,0 +1,20 @@
+G:\New\education\Vegga\Web\BLL\bin\Release\BLL.dll
+G:\New\education\Vegga\Web\BLL\bin\Release\BLL.pdb
+G:\New\education\Vegga\Web\BLL\bin\Release\DAL.dll
+G:\New\education\Vegga\Web\BLL\bin\Release\DAL.pdb
+G:\New\education\Vegga\Web\BLL\bin\Release\DAL.dll.config
+G:\New\education\Vegga\Web\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+G:\New\education\Vegga\Web\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+G:\New\education\Vegga\Web\BLL\obj\Release\BLL.csproj.CopyComplete
+G:\New\education\Vegga\Web\BLL\obj\Release\BLL.dll
+G:\New\education\Vegga\Web\BLL\obj\Release\BLL.pdb
+G:\Work -)\visit my jaipur\website\VMJ\BLL\bin\Release\BLL.dll
+G:\Work -)\visit my jaipur\website\VMJ\BLL\bin\Release\BLL.pdb
+G:\Work -)\visit my jaipur\website\VMJ\BLL\bin\Release\DAL.dll
+G:\Work -)\visit my jaipur\website\VMJ\BLL\bin\Release\DAL.pdb
+G:\Work -)\visit my jaipur\website\VMJ\BLL\bin\Release\DAL.dll.config
+G:\Work -)\visit my jaipur\website\VMJ\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+G:\Work -)\visit my jaipur\website\VMJ\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+G:\Work -)\visit my jaipur\website\VMJ\BLL\obj\Release\BLL.csproj.CopyComplete
+G:\Work -)\visit my jaipur\website\VMJ\BLL\obj\Release\BLL.dll
+G:\Work -)\visit my jaipur\website\VMJ\BLL\obj\Release\BLL.pdb
